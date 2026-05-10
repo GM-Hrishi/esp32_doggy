@@ -142,7 +142,6 @@ tamagotchi-dog/
 
 ---
 
-## Built By
 
-Hrishi — ECE student, R.M.K. Engineering College, Tamil Nadu.  
+
 Part of personal hardware + embedded experiments.
